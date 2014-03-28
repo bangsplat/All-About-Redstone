@@ -18,15 +18,18 @@ Generating Power
 		tripwire hook
 		trapped chest
 		daylight sensor
-		activator rail
+		detector rail
 	container with comparator
 		chest
 		hopper
 		dropper
 		dispenser
+	item frame (1.8)
 
 Transmitting Power
 	redstone dust
+	repeater
+	comparator
 	blocks
 
 Converting Power
@@ -36,6 +39,7 @@ Converting Power
 	trapdoors
 		wooden
 		iron
+	fence gate
 	pistons
 		piston
 		sticky piston
@@ -43,9 +47,21 @@ Converting Power
 	dropper
 	dispenser
 	powered rail
+	activator rail
+	TNT
+	note block
+	command block
 
 
 
 
+
+
+
+practical uses
+	automatic doors
+	mob-proof door
+	mob trap
+	dropper elevator
 
 
