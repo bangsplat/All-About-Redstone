@@ -53,15 +53,26 @@ Converting Power
 	command block
 
 
-
-
-
+weak vs. strong power
+going up vs. going down
 
 
 practical uses
+	lighting
 	automatic doors
 	mob-proof door
 	mob trap
+	auto smelting
+	item collection
 	dropper elevator
+
+on/off switch with a button
+logic gates and why you should care
+pulse generators
+
+
+
+
+
 
 
