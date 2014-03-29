@@ -53,8 +53,9 @@ Converting Power
 	command block
 
 
-weak vs. strong power
-going up vs. going down
+Wiring
+	weak vs. strong power
+	going up vs. going down
 
 
 practical uses
@@ -63,7 +64,7 @@ practical uses
 	mob-proof door
 	mob trap
 	auto smelting
-	item collection
+	item collection/storage
 	dropper elevator
 
 on/off switch with a button
