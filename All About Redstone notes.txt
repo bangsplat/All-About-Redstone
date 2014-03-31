@@ -24,12 +24,13 @@ Generating Power
 		hopper
 		dropper
 		dispenser
-	item frame (1.8)
+	item frame with comparator (1.8)
 
 Transmitting Power
 	redstone dust
 	repeater
 	comparator
+	going up/going down
 	blocks
 
 Converting Power
@@ -53,10 +54,7 @@ Converting Power
 	command block
 
 
-Wiring
-	weak vs. strong power
-	going up vs. going down
-
+weak vs. strong power (seems to be fixed in 1.8)a
 
 practical uses
 	lighting
