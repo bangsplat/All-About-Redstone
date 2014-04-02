@@ -54,7 +54,12 @@ Converting Power
 	command block
 
 
-weak vs. strong power (seems to be fixed in 1.8)a
+weak vs. strong power (seems to be fixed in 1.8)
+
+Useful Circuits
+	Toggle (flip-flop)
+	NOR Latch
+	Pulse Generator	
 
 practical uses
 	lighting
@@ -65,13 +70,5 @@ practical uses
 	item collection/storage
 	dropper elevator
 
-on/off switch with a button
 logic gates and why you should care
-pulse generators
-
-
-
-
-
-
 
